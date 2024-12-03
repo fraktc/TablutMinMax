@@ -1,5 +1,7 @@
 # Tablut Game
 This repository contains the implementation of a client for the Tablut game, including various utilities and algorithms to play the game.
+The AI has been developed as part of a university exam module for [FUNDAMENTALS OF ARTIFICIAL INTELLIGENCE AND KNOWLEDGE REPRESENTATION](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/446566).
+
 ## Features
 - `Client`: Connects to a Tablut game server, sends moves, and receives game state updates.
 - `State Management`: Manages the game state, including the board and player turns.
